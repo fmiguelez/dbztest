@@ -1,4 +1,4 @@
-## Test project to reproduce PostgreSQL crash when using Debezium
+## Test project to reproduce [DBZ-1144](https://issues.jboss.org/browse/DBZ-1144)
 
 Test project to reproduce crash using Debezium 0.8.3.Final (and also 0.9.1.Final) when working with PostGIS geometries.
 
